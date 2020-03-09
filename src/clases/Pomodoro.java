@@ -4,11 +4,14 @@
  * and open the template in the editor.
  */
 package clases;
+import clases.VetanaPrincipal;
 
 /**
  *
- * @author Asus
+ * @author EduardoReyes
  */
 public class Pomodoro {
-    
+
+VentanaPrincipal pricipal = new VentanaPrincipal();
+    pricipal.
 }
